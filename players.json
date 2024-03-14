@@ -1,0 +1,220 @@
+{
+  "players": [
+    {
+      "name": "Rossi",
+      "fullName": "Agustín Rossi",
+      "number": 1,
+      "position": "Goleiro",
+      "dateBirth": "21/08/1995", 
+      "hometown": "Buenos Aires, Argentina",
+      "url": "./src/assets/img/players/01_goal_rossi.png"
+    },
+    {
+      "name": "Matheus Cunha",
+      "fullName": "Matheus Cunha",
+      "number": 25,
+      "position": "Goleiro",
+      "dateBirth": "24/05/2001", 
+      "hometown": "Tupi Paulista, SP - Brasil",
+      "url": "./src/assets/img/players/25_goal_matheus_cunha.png"
+    },
+    {
+      "name": "Léo Pereira",
+      "fullName": "Leonardo Pereira",
+      "number": 4,
+      "position": "Zagueiro",
+      "dateBirth": "31/01/1996", 
+      "hometown": "Curitiba, PR - Brasil",
+      "url": "./src/assets/img/players/04_def_leo_pereira.png"
+    },
+    {
+      "name": "David Luiz",
+      "fullName": "David Luiz Moreira Marinho",
+      "number": 23,
+      "position": "Zagueiro",
+      "dateBirth": "22/04/1987", 
+      "hometown": "Diadema, SP - Brasil",
+      "url": "./src/assets/img/players/23_def_david_luiz.png"
+    },
+    {
+      "name": "Cleiton",
+      "fullName": "Cleiton Santana dos Santos",
+      "number": 33,
+      "position": "Zagueiro",
+      "dateBirth": "25/04/2003", 
+      "hometown": "Taperdá, BA - Brasil",
+      "url": "./src/assets/img/players/33_def_cleiton.png"
+    },
+    {
+      "name": "Fabício Bruno",
+      "fullName": "Fabício Bruno",
+      "number": 15,
+      "position": "Zagueiro",
+      "dateBirth": "12/02/1996", 
+      "hometown": "Contagem, MG - Brasil",
+      "url": "./src/assets/img/players/15_def_fabricio_bruno.png"
+    },
+    {
+      "name": "Léo Ortiz",
+      "fullName": "Leonardo Rech Ortiz",
+      "number": 3,
+      "position": "Zagueiro",
+      "dateBirth": "03/01/1996", 
+      "hometown": "Porto Alegre, RS - Brasil",
+      "url": "./src/assets/img/players/03_def_leo_ortiz.png"
+    },
+    {
+      "name": "Varela",
+      "fullName": "Guillermo Varela Olivera",
+      "number": 2,
+      "position": "Laterais Direitos",
+      "dateBirth": "24/03/1993", 
+      "hometown": "Montevidéu, Uruguai",
+      "url": "./src/assets/img/players/02_ld_varela.png"
+    },
+    {
+      "name": "Wesley",
+      "fullName": "Wesley Vinicius França Lima",
+      "number": 43,
+      "position": "Lateral Direito",
+      "dateBirth": "06/09/2003", 
+      "hometown": "Açailandia, MA - Brasil",
+      "url": "./src/assets/img/players/43_ld_wesley.png"
+    },
+    {
+      "name": "Matías Viña",
+      "fullName": "Matías Viña",
+      "number": 17,
+      "position": "Lateral Esquerdo",
+      "dateBirth": "09/11/1997", 
+      "hometown": "Empalme Olmos, Uruguai",
+      "url": "./src/assets/img/players/17_le_matias_vina.png"
+    },
+    {
+      "name": "Ayrton Lucas",
+      "fullName": "Ayrton Lucas",
+      "number": 6,
+      "position": "Lateral Esquerdo",
+      "dateBirth": "19/06/1997", 
+      "hometown": "Empalme Olmos, Uruguai",
+      "url": "./src/assets/img/players/06_le_ayrton_lucas.png"
+    },
+    {
+      "name": "Igor Jesus",
+      "fullName": "Igor Jesus Lima",
+      "number": 48,
+      "position": "Volante",
+      "dateBirth": "07/03/2003", 
+      "hometown": "Goiânia, GO - Brasil",
+      "url": "./src/assets/img/players/48_md_igor_jesus.png"
+    },
+    {
+      "name": "Erick Pulgar",
+      "fullName": "Erick Antonio Pulgar Farfán",
+      "number": 5,
+      "position": "Volante",
+      "dateBirth": "15/01/1994", 
+      "hometown": "Antofagasta, Chile",
+      "url": "./src/assets/img/players/05_md_erick.png"
+    },
+    {
+      "name": "Gerson",
+      "fullName": "Gerson Santos da Silva",
+      "number": 8,
+      "position": "Volante",
+      "dateBirth": "20/05/1997", 
+      "hometown": "Rio de Janeiro, RJ - Brasil",
+      "url": "./src/assets/img/players/08_md_gerson.png"
+    },
+    {
+      "name": "Allan",
+      "fullName": "Allan Rodrigues de Souza",
+      "number": 21,
+      "position": "Volante",
+      "dateBirth": "03/03/1997", 
+      "hometown": "São Paulo, SP - Brasil",
+      "url": "./src/assets/img/players/21_md_allan.png"
+    },
+    {
+      "name": "Matheus Gonçalves",
+      "fullName": "Matheus Gonçalves Martins",
+      "number": 40,
+      "position": "Meia",
+      "dateBirth": "18/08/2005", 
+      "hometown": "Rio de Janeiro, RJ - Brasil",
+      "url": "./src/assets/img/players/40_mo_matheus_goncalves.png"
+    },
+    {
+      "name": "De Arrascaeta",
+      "fullName": "Giorgian Daniel de Arrascaeta Benedetti",
+      "number": 14,
+      "position": "Meia",
+      "dateBirth": "01/06/1994", 
+      "hometown": "Nuevo Berlín, Uruguai",
+      "url": "./src/assets/img/players/14_mo_arrascaeta.png"
+    },
+    {
+      "name": "Victor Hugo",
+      "fullName": "Victor Hugo Gomes Silva",
+      "number": 29,
+      "position": "Meia",
+      "dateBirth": "11/05/2004", 
+      "hometown": "Rio de Janeiro, RJ - Brasil",
+      "url": "./src/assets/img/players/29_mo_victor_hugor.png"
+    },
+    {
+      "name": "De La Cruz",
+      "fullName": "Diego Nicolás De La Cruz Arcosa",
+      "number": 18,
+      "position": "Meia",
+      "dateBirth": "01/06/1997", 
+      "hometown": "Montevidéu, Uruguai",
+      "url": "./src/assets/img/players/18_mo_de_la_cruz.png"
+    },
+    {
+      "name": "Gabi",
+      "fullName": "Gabriel Barbosa Almeida",
+      "number": 10,
+      "position": "Atacante",
+      "dateBirth": "30/08/1996", 
+      "hometown": "São Bernado do Campo, SP - Brasil",
+      "url": "./src/assets/img/players/10_att_gabi.png"
+    },
+    {
+      "name": "Bruno Henrique",
+      "fullName": "Bruno Henrique Pinto",
+      "number": 27,
+      "position": "Atacante",
+      "dateBirth": "30/12/1990", 
+      "hometown": "Belo Horizonte, MG - Brasil",
+      "url": "./src/assets/img/players/27_att_bruno_henrique.png"
+    },
+    {
+      "name": "Pedro",
+      "fullName": "Pedro Guilherme Abreu dos Santos",
+      "number": 9,
+      "position": "Atacante",
+      "dateBirth": "20/06/1997", 
+      "hometown": "Rio de Janeiro, RJ - Brasil",
+      "url": "./src/assets/img/players/09_att_pedro.png"
+    },
+    {
+      "name": "Everton",
+      "fullName": "Everton Sousa Soares",
+      "number": 11,
+      "position": "Atacante",
+      "dateBirth": "22/03/1996", 
+      "hometown": "Maracanaú, CE - Brasil",
+      "url": "./src/assets/img/players/11_att_everton.png"
+    },
+    {
+      "name": "Luiz Araujo",
+      "fullName": "Luiz Araujo",
+      "number": 7,
+      "position": "Atacante",
+      "dateBirth": "02/06/1996", 
+      "hometown": "São Paulo, SP - Brasil",
+      "url": "./src/assets/img/players/07_att_luiz_araujo.png"
+    }
+  ]
+}

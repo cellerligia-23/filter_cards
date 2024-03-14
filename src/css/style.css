@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  list-style-type: none;
+}
+
+body {
+  background-color: #fff;
+  font-size: 1.6rem;
+}
+
+body * {
+  font-family: sans-serif;
+}
+
+main {
+  padding-inline: 3.2rem;
+  max-width: 70rem;
+  margin: 3.2rem auto;
+}
+
+h1 {
+  opacity: .9;
+}
+
+nav {
+  background-color: #121213;
+  display: flex;
+  justify-content: space-between;
+  padding: .625rem 1.5rem;
+}
+
+nav img {
+  height: 4.6rem;
+  width: 4.6rem;
+}
+
+nav h1 {
+  color: #fff;
+  margin-top: 0.9rem;
+  text-align: center;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.6rem;
+}
+
+ul:has(li:hover) li:not(:hover) {
+  opacity: .6;
+  scale: .98;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  background-color: #707074;
+  border-radius: .8rem;
+  color: #fff;
+  transition: all .2s;
+}
+
+p {
+  font-size: .95rem;
+  margin-bottom: .125rem;
+}
+
+.container-head {
+  color: white;
+  padding: 3.2rem;
+  max-width: 46rem;
+}
+
+.title-head {
+  font-size: 1.6rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.input-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.input-seach {
+  margin-top: 2rem;
+  padding: .6rem 1.6rem;
+  border-radius: .8rem;
+  background-color: #707074;
+  border: 0;
+  width: 31.25rem;
+  color: white;
+  font-size: 1.6rem;
+}
+
+.input-wrapper i {
+  color: #fff;
+  margin-top: 2.7rem;
+  position: absolute;
+  margin-left: 26.8rem;
+}
+
+.content-text {
+  text-align: center;
+  margin-top: .5rem;
+  width: 100%;
+  padding: .5rem;
+  background-color: red;
+}
+
+::-webkit-input-placeholder {
+  color: #c2bdbd;
+}
+
+:-ms-input-placeholder {
+  color: #c2bdbd;
+}
+
+::-moz-placeholder {
+  color: #c2bdbd;
+}
+
+footer {
+  background-color: #ac1a1a;
+  border: 1px solid #121213;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: .3rem;
+  width: 100vw;
+}
+
+footer p span {
+  font-weight: 900;
+  font-size: 1rem;
+}
+
+.footer-logo-github {
+  height: 1.87rem;
+  width: 1.87rem;
+}
+
+
+@media (max-width: 36rem) {
+  ul {
+    grid-template-columns: 1fr;
+  }
+
+  .title-nav {
+    font-size: 0.875rem;
+  }
+
+  nav img {
+    height: 3.6rem;
+    width: 3.6rem;
+  }
+
+  .title-head {
+    font-size: 1rem;
+    font-weight: 900;
+  }
+
+  .input-seach {
+    width: 20rem;
+  }
+
+  .input-wrapper i {
+    color: #fff;
+    margin-top: 2.7rem;
+    position: absolute;
+    margin-left: 16rem;
+  }
+}
